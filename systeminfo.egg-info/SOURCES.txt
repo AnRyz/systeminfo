@@ -1,0 +1,5 @@
+systeminfo.egg-info/PKG-INFO
+systeminfo.egg-info/SOURCES.txt
+systeminfo.egg-info/dependency_links.txt
+systeminfo.egg-info/entry_points.txt
+systeminfo.egg-info/top_level.txt
