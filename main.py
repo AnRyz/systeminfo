@@ -5,9 +5,11 @@ Created on 22 Feb 2018
 '''
 import platform
 
-def main():
-    print(platform.platform())
-    return
+def get_system_info():
+	print ("This is platform information:")
+	print(platform.platform())
+	return
 
 if __name__ == '__main__':
-    pass
+	get_system_info()
+   # pass

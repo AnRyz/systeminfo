@@ -5,7 +5,7 @@ Created on 22 Feb 2018
 '''
 from setuptools import setup
 
-setup(name="systeminfo",
+setup(name="sysinfo",
       version="0.1",
       description="Basic system information for COMP30670",
       author="Anna Ryzova",
